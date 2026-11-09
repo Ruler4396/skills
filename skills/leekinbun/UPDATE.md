@@ -1,6 +1,6 @@
 # leekinbun skill 更新机制
 
-> 本文件是治理元层，管 SKILL.md 怎么改；SKILL.md 是给 agent 的执行方法论，更新机制不写入其正文（写进去就是膨胀）。权威仓库：Ruler4396/leekinbun；本机安装目录：~/.agents/skills/leekinbun/。
+> 本文件是治理元层，管 **leekinbun** 这个 skill 的 SKILL.md 怎么改；SKILL.md 是给 agent 的执行方法论，更新机制不写入其正文（写进去就是膨胀）。**本文件只对 leekinbun 有效，不是仓库通用规则**——其他 skill 的验证方式不同，不得套用本标准。权威仓库：Ruler4396/skills；本机安装目录：~/.agents/skills/leekinbun/。
 
 ## 修改触发
 
